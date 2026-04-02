@@ -27,4 +27,4 @@ The application displays sales data in **Pie Charts** and **Bar Graphs**, calcul
 
 ---
 
-## 📁 Project Structure
+
