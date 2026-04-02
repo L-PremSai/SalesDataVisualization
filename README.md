@@ -1,8 +1,30 @@
-# SalesDataVisualization
-The Sales Data Visualization project is done using Java and jfreechart library which displays data into pie charts and graph and calculates the percentage of sales and the company growth.
+# 📊 Sales Data Visualization
 
+A **Java-based Sales Data Visualization** desktop application that helps analyze and visualize sales data using interactive charts. 
 
-This is the simple java project which is developed to represent data in the form of graphs and pie charts and calculate it's percentage according to that data 
+The application displays sales data in **Pie Charts** and **Bar Graphs**, calculates **sales percentages**, and shows **company growth** metrics.
 
-Swing is used to create graphical user interface and jfreechart library is used to create pie and graphs from given data.
+---
 
+## ✨ Features
+
+- **Pie Chart** – Visual representation of sales distribution by category/product
+- **Bar Graph / Line Chart** – Displays sales trends over time or by different parameters
+- **Sales Percentage Calculation** – Automatically computes percentage contribution of each category
+- **Company Growth Analysis** – Shows overall growth rate and key insights
+- **Interactive Charts** – Built using JFreeChart for smooth and professional visuals
+- **Data Import Support** – Easy to load sales data (CSV or database)
+- **User-friendly GUI** – Clean Swing-based interface
+
+---
+
+## 🛠️ Technologies Used
+
+- **Java** (JDK 8 or above)
+- **Swing** – For building the Graphical User Interface (GUI)
+- **JFreeChart** – Powerful library for creating charts (Pie Chart, Bar Chart, Line Chart, etc.)
+- **Java I/O** – For reading sales data from files
+
+---
+
+## 📁 Project Structure
